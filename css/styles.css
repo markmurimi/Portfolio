@@ -1,59 +1,6 @@
-body {
-    background-color:#242426;
-    padding-bottom:2%;
-    margin-top:5%;
-}
-.container{
-    float:right;
-    margin-right:-50%;
-    margin-top:-1%;
-}
-.container-fluid{
-    margin-top:-4%;
-    padding-top:1%;
-    background-color: whitesmoke;
-    color:black;
-    padding-left:1%;
-    border-radius:2%;
-    padding-bottom:1%;
-    margin-left:1%;
-    margin-right:1%;
-}
-h1{
-    text-decoration:underline;
-}
-.container-1{
-    float:right;
-    
-}
-.jumbotron{
-    background-color:#242426;
-    margin-top:-5%;
-}
-.well{
-    float:right;
-    margin-right:-63.2%;
-    text-align:left;
-    padding-bottom:12.5%;
-}
-footer{
-    color:white;
-    margin-top:2%;
-    background-color:black;
-    padding-top:0.5%;
-    margin-bottom:-2%;
-    padding-bottom: 0.2%;
-}
-h6{
-    float:left;
-    margin-right:2%;
-}
-#well{
-    margin-right:8%;
-    margin-left:60%;
-    background-color: black;
-    opacity:0.7;
-    color:white; 
-    padding:3%;
-    border-radius:20px;   
-}
+body { background-color: #E8E8E8; }
+
+
+#main, footer { font-family: 'Nunito Sans', sans-serif; }
+
+.pacifico { font-family: 'Pacifico', cursive; }
